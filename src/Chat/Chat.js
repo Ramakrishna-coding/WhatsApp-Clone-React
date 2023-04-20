@@ -90,7 +90,6 @@ function Chat({ isRoomExist }) {
               </div>
             )}
           </div>
-
           <div>
             <ChatFooter
               roomName={roomName}
